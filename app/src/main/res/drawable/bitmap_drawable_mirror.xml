@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bitmap xmlns:android="http://schemas.android.com/apk/res/android"
+    android:src="@drawable/image1"
+    android:tileMode="mirror"
+     />
+
+    <!--src:资源, tileMode: 平铺模式  -->
+    <!--disabled:关闭平铺 -->
+    <!--repeat:水平和竖直方向上的平铺效果(一个挨着一个  到充满整个区域) -->
+    <!--mirror:水平和竖直方向上的镜面平铺(第二个是第一个的倒影  到充满整个区域) -->
+    <!--clamp:图片的四周的像素会扩展到周围区域(图片边缘拉伸  到充满整个区域)-->

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<inset xmlns:android="http://schemas.android.com/apk/res/android"
+    android:insetBottom="15dp"
+    android:insetLeft="15dp"
+    android:insetRight="15dp"
+    android:insetTop="15dp" >
+
+    <!--当一个View希望自己的背景比自己的实际区域小的时候,可以采用InsetDrawable来实现-->
+
+    <shape android:shape="rectangle" >
+        <solid android:color="#ff0000" />
+    </shape>
+</inset>

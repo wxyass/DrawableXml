@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<clip xmlns:android="http://schemas.android.com/apk/res/android"
+    android:clipOrientation="vertical"
+    android:drawable="@drawable/image1"
+    android:gravity="bottom" />
+
+<!--裁剪-->
+<!--clipOrientation: 裁剪方向,有水平和竖直两个方向-->
+<!--gravity: 摆放和裁剪 的规则-->

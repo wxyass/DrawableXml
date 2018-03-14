@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<transition xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <!--实现两个drawable之间的淡入淡出效果-->
+    <item android:drawable="@drawable/shape_drawable_gradient_linear"/>
+    <item android:drawable="@drawable/shape_drawable_gradient_radius"/>
+
+</transition>
